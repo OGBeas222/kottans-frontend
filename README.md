@@ -2323,7 +2323,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello everyone! Sonia is here!
-I am very happy to see you all here! 
+I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
@@ -2344,7 +2344,7 @@ I'm first time working with GitHub, its so fresh & cool expirience!!!
 
 ---------------------------------
 # Hello ~~World~~ Kottans
-My name is Illia. 
+My name is Illia.
 Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](./assets/images/koshak.jpg)
@@ -2357,3 +2357,13 @@ Hope this kitty will grow up together with improving my programing skills
 My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this community!Thank you for this opportunity to be a part of this community.
 I hope that I and all  Kottans will be able to achieve good results in studying)
 ![Kitten](./assets/images/my-cute-kitten.jpg)
+
+# kottans-frontend
+<h1 align="center"> Добрий день , everybody</h1>
+<hr/>
+<p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new frond-end a knowledge and some friends : ) </p>
+<strong> Look at this engineer ☺</strong>
+<br/>
+<br/><br/>
+<br/>
+<img width="600" height="700" src="https://github.com/OGBeas222/C-1/blob/main/kottans.jpg" alt="">
