@@ -18,8 +18,8 @@
 ## Git Collaboration
 
 
-<img width="650" height="710" src="" alt="">
-<img width="650" height="710" src="" alt="">
+<img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_git_collaboration/git-1.png" alt="">
+<img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_git_collaboration/git-2.png" alt="">
 
 
 <p> Finshied Git learn course </p>
