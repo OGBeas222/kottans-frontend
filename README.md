@@ -7,3 +7,9 @@
 <br/><br/>
 <br/>
 <img width="600" height="700" src="https://github.com/OGBeas222/C-1/blob/main/kottans.jpg" alt="">
+
+## Linux CLI, and HTTP
+<img width="600" height="700" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_linux_cli/linux-survival.png" alt="">
+
+
+<p> Finshied linux cli course </p>
