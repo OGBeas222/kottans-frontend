@@ -29,3 +29,5 @@
 <img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.png" alt="">
 <img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/flex-froggy.png" alt="">
 <img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/udacity.png" alt="">
+
+Finished flex frogy game and grid garden 
