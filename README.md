@@ -21,5 +21,11 @@
 <img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_git_collaboration/git-1.png" alt="">
 <img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_git_collaboration/git-2.png" alt="">
 
-
 <p> Finshied Git learn course </p>
+
+## Responsive Web Design
+
+
+<img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.png" alt="">
+<img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/flex-froggy.png" alt="">
+<img width="650" height="710" src="https://github.com/OGBeas222/kottans-frontend/blob/main/task_responsive_web_design/udacity.png" alt="">
